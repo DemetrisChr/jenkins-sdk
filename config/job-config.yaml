@@ -194,6 +194,9 @@ matrix:
     - language: Ruby
       version: 3.4.1
 
+    - language: Ruby
+      version: snapshot
+
   workloads:
 
     # KV replaces
